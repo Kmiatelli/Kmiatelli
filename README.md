@@ -2,7 +2,7 @@
 
 
 - 🛩️ I’m currently working as a Fligth Attendant 
-- 🐍 I’m currently learning some program languages to reach the developer world. At this moment working more on Python stuffs 
+- 🐍 Studying and learning some program languages to reach the developer world. At this moment working more on Python stuffs 
 - ♀️ Pronouns: She/Her
 
 <div align="center">
